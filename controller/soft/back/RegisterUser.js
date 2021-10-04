@@ -11,7 +11,7 @@ module.exports = new class RegisterUser {
     }
     generate_code (code) {
     if (code == null) {
-        return "not_valid";
+        return "not_valid2";
     }
     let count = 0;
     let code_2 = code.trim().toUpperCase();
