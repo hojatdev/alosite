@@ -2,13 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88122efa-e8bb-40ff-bae6-fb5924c53602" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/controller/soft/back/RegisterUserController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/extension/SendListController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/soft/back/ActiveUserController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/soft/back/GetResponseController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/soft/back/SendListController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/soft/front/UserController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/Alexa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/Order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/Service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/api/ext/v1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/api/v1/back.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/api/v1/front.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/middlware/apiAuth.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controller/Controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/Controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/soft/back/RegisterUser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api/v1.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/v1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/soft/back/RegisterUserController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/soft/back/RegisterUserController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/db/User.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/connection.js" beforeDir="false" afterPath="$PROJECT_DIR$/db/connection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api/v1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api/v2.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +58,14 @@
     <property name="javascript.nodejs.core.library.typings.version" value="13.13.52" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\alosite\routes\api\v1" />
+      <recent name="D:\alosite\controller\soft\front" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -53,7 +76,9 @@
       <option name="presentableId" value="Default" />
       <updated>1633328043933</updated>
       <workItem from="1633328045310" duration="1689000" />
-      <workItem from="1608755415813" duration="8840000" />
+      <workItem from="1608755415813" duration="19226000" />
+      <workItem from="1608755446719" duration="1805000" />
+      <workItem from="1608755460985" duration="58491000" />
     </task>
     <servers />
   </component>
@@ -70,5 +95,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
